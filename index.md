@@ -7,6 +7,7 @@ I am a **fourth year** undergraduate at *University of California, San Diego* ma
 - machine learning
 - deep neural networks, and 
 - robotics
+
 I am also curious about many different subjects like space exploration, medicine, ecology, energy, and more. As a programmer I hope to make a positive impact on the health and general well-being in whatever field I find myself working in.
 
 ![This is my cat](https://i.imgur.com/NmCXJfD.jpg)
